@@ -1,6 +1,7 @@
 bison (2:3.7.5+dfsg-1pexip1) pexip; urgency=medium
 
   * Prepare Pexip packaging
+  * Imported as a build dependency for newer versions of syslog-ng
 
  -- Mark Hymers <mark.hymers@pexip.com>  Mon, 02 Aug 2021 14:22:50 +0000
 
