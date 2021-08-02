@@ -1,10 +1,12 @@
 Source: bison
 Section: devel
 Priority: optional
-Maintainer: Chuan-kai Lin <cklin@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Chuan-kai Lin <cklin@debian.org>
 Homepage: https://www.gnu.org/software/bison/
 Standards-Version: 4.5.1
 Build-Depends: debhelper-compat (= 12), gettext, flex, m4 (>= 1.4-14), help2man
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ bullseye
 
 Package: bison
 Architecture: any
